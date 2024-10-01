@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently internship at **Kominfo Yogyakarta**
 
-- 🌱 I’m currently learning **online course at Udemy**
+- 🌱 I’m currently exploring **PHP & Laravel for backend development**
 
-- 💬 Ask me about **php and laravel**
+- 💬 Ask me about **PHP, Laravel, and Web Development**
 
 - 📫 How to reach me **www.linkedin.com/in/azhar-abdul-sali**
 
