@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently internship at **Kominfo Yogyakarta**
 
-- 🌱 I’m currently exploring **PHP & Laravel for backend development**
+- 🌱 I’m currently exploring **Backend Development**
 
 - 💬 Ask me about **PHP, Laravel, and Web Development**
 
