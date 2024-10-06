@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently exploring **Backend Development**
 
-- 💬 Ask me about **PHP, Laravel, and Web Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **www.linkedin.com/in/azhar-abdul-sali**
 
