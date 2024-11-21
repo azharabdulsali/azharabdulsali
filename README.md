@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azhar Abdul Sali!</h1>
+<h1 align="center">Hi 👋, I'm Azhar Abdul Sali</h1>
 <img align="center" alt="web-developer" width="100%" src="https://camo.githubusercontent.com/6af9ca223e6017d9700f9aca6904606ceb91ad0296a734a9bd9c5eaf01f0ca84/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d6874747073253341253246253246646576746563686e6f7379732e636f6d253246696e73696768747325324677702d636f6e74656e7425324675706c6f61647325324632303231253246303725324666756c6c2d737461636b2d646576656c6f706d656e742e67696626663d31266e6f66623d31266970743d363835616161393834313732643538363962333334623236666433356163666232353839356163373437313531653530646230643732323965396264396261612669706f3d696d61676573">
 <h3 align="justify">I am an undergraduate student of Informatics at Universitas Muhammadiyah Semarang with a deep passion for technology, software development, and artificial intelligence. My interests include web and mobile application development as well as exploring machine learning algorithms to solve real-world problems.</h3>
 
