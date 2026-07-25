@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1120px" height="720px" font-size="14px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #8b949e;}
+.ascii {font-size: 8px;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1120px" height="720px" fill="#0d1117" rx="15"/>
+<text x="14" y="20" fill="#c9d1d9" class="ascii">
+<tspan x="14" y="20">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="30">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="40">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="50">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="60">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="70">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$za$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="80">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&amp;oWBB88B@8WMo$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="90">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$O#%%&amp;M********#MW8%B8Mh$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="100">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$#M%BW#*************##**##WBB&amp;M#W$oM$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="110">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$h8%&amp;M**************##############MWM8%8$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="120">$$$$$$$$$$$$$$$$$$$$$$$$$$$M&amp;@@%88&amp;&amp;W********##&amp;B$$$$$@%&amp;WM######MMW&amp;B$$$$Md$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="130">$$$$$$$$$$$$$$$$$$$$$$$$$MB$$$$$$BM#******#MMMMM##W@$$$$$$$$$@@BW#MWW8B@@@%8$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="140">$$$$$$$$$$$$$$$$$$$$$$$$pY$WW@%#**####&amp;%$$$$$$$$$$$$$$$$$$$$$$$$$8##&amp;@@@8k$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="150">$$$$$$$$$$$$$$$$$$$$$$$$$o%BMo*####%@$$$$$$$$$$@W0CdW%@$$$$$$$$$%W#######WB8d$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="160">$$$$$$$$$$$$$$$$$$$$$$$$M%*o*##M%$$$$$$$@Wp0u|((((((((((((v*%&amp;##############W%k$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="170">$$$$$$$$$$$$$$$$$$$$$$$B%o*###%$$$$@Mz|(((((((()1[[}{))(Z8##M&amp;B@@@@@$$$$$@W##%M$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="180">$$$$$$$$$$$$$$$$$$$$$$8W*###&amp;$$$8v(((((){}[???????????/vj()((((|C*$$$$$$$$@##MB$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="190">$$$$$$$$$$$$$$$$$$$$$%&amp;####&amp;$$$@x(((1???????????????????????[Qho*#WB$$$$$$$$##@o$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="200">$$$$$$$$$$$$$$$$$$$$$*B###&amp;$$$@n((}]?????????-?????????????????????)W$$$$$$$B#BW$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="210">$$$$$$$$$$$$$$$$$$$$$$&amp;W#M%W@@Q(1]???????????????---????????????????]C@$$$$$$&amp;&amp;%$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="220">$$$$$$$$$$$$$$$$$$$$$$%8###W$*(]?????????????????--??????????]fY??????j@$$$$$$&amp;8$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="230">$$$$$$$$$$$$$$$$$$$$$$$@W##W%)?????????????????????????]\zo@$$$$@Z1????xB$$$$@&amp;$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="240">$$$$$$$$$$$$$$$$$$$$$$$a@##WX????[1\fxnxj/({]???????1q&amp;@$$$$$$$@&amp;kL\???t&amp;$$$$8$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="250">$$$$$$$$$$$$$$$$$$$$$$$$#8#MY???xB$$$$$$$$$$#1??????XB%kZY/}]??????????)o$$$@B$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="260">$$$$$$$$$$$$$$$$$$$$$$$$$8MMZ???M$@@%MapZ000Zr??????]]?????)jcXcj(]????[k$$$@o$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="270">$$$$$$$$$$$$$$$$$$$$$$$$$%8#o????????????]]???????????u/&lt;&quot;&apos;!tr1&apos;..~j???]d$$$B#whh$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="280">$$$$$$$$$$$$$$$$$$$$$$$$$$@MW[???](QZ\i&quot;&quot;,&quot;&quot;?r???????]u..`d$$W_?\.if???]pBU}??])Bo$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="290">$$$$$$$$$$$$$$$$$$$$$$$$$$oBM|???C;...`Z@$d}xz[??????1t..r@$$@0IO!lt????QM]??(1?\8#$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="300">$$$$$$$$$$$$$$$$$$$$$$$$Qq$&amp;&amp;L???f[...L$$$#+~Lv]?????{\..u@$$$$$8i&gt;f????xh?[Jt)]]XM$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="310">$$$$$$$$$$$$$$$$$$$$$$$MhXUCZW]??]0&apos;.&apos;Z$$$$$$Zu]??????{..:*$$$$$C^_x????zCxcL\1?]Q&amp;$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="320">$$$$$$$$$$$$$$$$$$$$$$$%\??]]df???Yl.._%$$$$B|1}|????]-;!&lt;+C#*obJJv1???]mr((uu??j%$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="330">$$$$$$$$$$$$$$$$$$$$$$W%?]|r)(C???)f`:&gt;(h@8#L[]c1?????]]]??????????????]p|((Uj?(%o$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="340">$$$$$$$$$$$$$$$$$$$$$$*#]?}jc\m{???]??]???????xQ[]?]???????????????????[p{|n]?[m#$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="350">$$$$$$$$$$$$$$$$$$$$$$&amp;*???jY|0/??????????????)dX((}?????????]L#]??????(w]]??]nB$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="360">$$$$$$$$$$$$$$$$$$$$$$$#%\?1Yzvk]???????????????[/]????{fnnx|{v]]??????jC1tuJZBM$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="370">$$$$$$$$$$$$$$$$$$$$$$$$$8t???]a\????????????????]rZwfI&apos;.....v1????????u8bX$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="380">$$$$$$$$$$$$$$$$$$$$$$$$$M8L]??(w]???????]1xzn\[!`.......&apos;l|Qf?????????UB$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="390">$$$$$$$$$$$$$$$$$$$$$$$$$$$&amp;8%%B#\???????[*@(.....&apos;^;+nkapqpU??????????kW$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="400">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$BU????????}p&amp;LQZwbM*qO000O0Z1?????????|Bk$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="410">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$a8}?????????nabbbqO0OOZmwww/]???????/k&amp;$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="420">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$8MQ[????????|*akadLn/)[??????????ro&amp;&amp;$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="430">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$h%ox]???????]???????????????]zkqB$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="440">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$WWp{???????????????????}Od/(b&amp;$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="450">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Y%bU1??????????????tq0/((\8o$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="460">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Q%((zMj]????????[c8u(((((/B%o$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="470">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$MW88@1?]1f0pwmOQLJcr\((((((1r@&amp;M%8$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="480">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&amp;M%*%&amp;@1????})(((((((((((()[]tWW8oo%M$$$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="490">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$b*%WoooBW&amp;C[?????]})(((((){[][XWWM&amp;Wooo*8d$$$$$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="500">$$$$$$$$$$$$$$$$$$$$$$$$$$a&amp;M&amp;%8&amp;Woooo*BMMWWf]??????]][????1O%WMMM8MoooooBBM%&amp;$$$$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="510">$$$$$$$$$$$$$$$$$$$$$k*B%W#*ooo%#oooooW8MMMMMd[?????????]xo&amp;MMMMMW%oooooo*&amp;o*WB8*$$$$$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="520">$$$$$$$$$$$$$$$h%&amp;W%&amp;*ooooooo#&amp;ooooooo&amp;&amp;MMMMMMWL[?????{C%WMMMMMMM&amp;&amp;ooooaoo&amp;*oooo#%&amp;%8$$$$$$$$$$$$$$$</tspan>
+<tspan x="14" y="530">$$$$$$$$$$qMBBW#*oooooooaooo&amp;Moooooooo8WMMMMMMMWWc??u#WWMMMMMMMMMB*oooooooo@oooooooo#%%*$$$$$$$$$$$$</tspan>
+<tspan x="14" y="540">$$$$$$$%&amp;W#Moooooooooooooo*8#ooooooooo%BMMMMMMMW888B&amp;MMMMMMMMMMM&amp;8ooooooooo*8oooaaaaaooo&amp;8%W$$$$$$$$</tspan>
+<tspan x="14" y="550">$$$$$$$W&amp;o#Wooooooaaaaaooooo*%8oooooo*%8&amp;MMMMMW&amp;hhhho%MMMMMMMMMM%#ooooooooooM#ooaaaaaaaaooo*8B#$$$$$</tspan>
+<tspan x="14" y="560">$$$$$$MB*o*&amp;oooooooaooooooooo*W&amp;&amp;*ooo#8W8MMMWB&amp;hhkkkkh8WMMMMMMWB%*oooooooooo#8ooooooaaoooooooooMBW$$</tspan>
+<tspan x="14" y="570">$$$$$M%Moo*&amp;ooooaaaaooooooWBWooooooooM&amp;M8WM8BW%ahkkhh&amp;$$&amp;MMMM&amp;8W&amp;oooooooo#%8*oooooooooooooooooo8MBh$</tspan>
+<tspan x="14" y="580">$$$$$8&amp;oooo8oooooooooooooW#ooooooooooM&amp;MWB%WMM&amp;#hhkh&amp;8MW88WW%&amp;WB#ooooo#BW*ooooooooooaaaaaaoooo&amp;#o%&amp;$</tspan>
+<tspan x="14" y="590">$$$$$8#oooo8ooooooaaoooooW#oooooooooo&amp;WMMMMMMM&amp;W#W8BWMMMM&amp;B%WM&amp;%oooooooooW%#oooooooooaoooooooWMooW%$</tspan>
+<tspan x="14" y="600">$$$$W8ooooo8ooooooooooooo#&amp;oooooooooo8WMMMMMMW%hhhh%WMMMMMMMMM%oooooooooooooWWoooooooaaoooooM&amp;ooo*BW</tspan>
+<tspan x="14" y="610">$$$MB*ooooo8*ooooooooooooo%oooooooooo%MMMMMMM8ahhhhBMMMMMMMMMW8ooooooooooooo8oooooaoooaooooM&amp;ooooo88</tspan>
+<tspan x="14" y="620">$$$%Moooooo&amp;#ooooooooooooo%*ooooooooo%MMMMMM&amp;MhhhkhBMMMMMMMMM&amp;Wooooooooooo*Booooooooooooooo&amp;ooooooW%</tspan>
+<tspan x="14" y="630">$$M8*ooooooWWoooooooooooooWMoooooooo#%MMMMMM%ahhhkhBMMMMMMMMW%*oooooooooo*&amp;*oooooooooooooo%*ooooooM8</tspan>
+<tspan x="14" y="640">$$%Mooooooo#8oooooooooooooo%oooooooo&amp;&amp;MMMMM%*hhhhkaBMMMMMMMM8&amp;oooooooooooB*oooooooooooooo8*ooooooo#8</tspan>
+<tspan x="14" y="650">$8%oooooooo*%oooooooooooooo%*ooooooo%WMMMM&amp;Mhhhhkko%MMMMMMMW%oooooooooo*8*ooooooooooooooWMoooooooo*8</tspan>
+<tspan x="14" y="660">8%ooooooooo*BooooooooooooooW#oooooooBWMMMM&amp;ahhkkkko%MMMMMMM&amp;Woooooooooo&amp;#oooooooooooooo#8oooooooooo8</tspan>
+<tspan x="14" y="670">&amp;WooooooooooBooooooooooooooMWoooooooBMMMM8#hhkkkkk*8MMMMMMM8#ooooooooo%#oooooooooooooo#8oooooooooooW</tspan>
+<tspan x="14" y="680">%*oooooooooo%*ooooooooooooo#Woooooo*BMMMW8hhkkkkkk#8MMMMMMW8ooooooooo&amp;#ooooooooooooooo&amp;*ooooooooooo*</tspan>
+<tspan x="14" y="690">Mooooooooooo&amp;#ooooooooooooo*&amp;ooooooM8MMM8hhhkkkkkhM&amp;MMMMMM%Moooooooo&amp;Wooooooooooooooo&amp;Mooooooooooooo</tspan>
+<tspan x="14" y="700">ooooooooooooMMoooooooooooooo8*oooooW&amp;MM&amp;MhhhhkkkkkM&amp;MMMMMWBoooooooo&amp;MoooooooooooooooW&amp;oooooooooooooo</tspan>
+</text>
+<text x="580" y="34" fill="#c9d1d9">
+<tspan x="580" y="34">azhar@github</tspan><tspan> ------------------------------------</tspan>
+<tspan x="580" y="58" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Windows, Linux, Android</tspan>
+<tspan x="580" y="82" class="cc">. </tspan><tspan class="key">Account Age</tspan>:<tspan class="cc" id="age_data_dots"> ................... </tspan><tspan class="value" id="age_data">calculating...</tspan>
+<tspan x="580" y="106" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Indonesia</tspan>
+<tspan x="580" y="130" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Software Developer</tspan>
+<tspan x="580" y="154" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">VS Code, GitHub</tspan>
+<tspan x="580" y="178" class="cc">. </tspan>
+<tspan x="580" y="202" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Python, JavaScript</tspan>
+<tspan x="580" y="226" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">HTML, CSS, React</tspan>
+<tspan x="580" y="250" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Indonesian, English</tspan>
+<tspan x="580" y="274" class="cc">. </tspan>
+<tspan x="580" y="298" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Build</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Web apps, automation</tspan>
+<tspan x="580" y="322" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Craft</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Clean UI, useful tools</tspan>
+<tspan x="580" y="370">- Contact</tspan><tspan> ------------------------------------</tspan>
+<tspan x="580" y="394" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">github.com/azharabdulsali</tspan>
+<tspan x="580" y="418" class="cc">. </tspan><tspan class="key">Profile</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">@azharabdulsali</tspan>
+<tspan x="580" y="466">- GitHub Stats</tspan><tspan> -------------------------------</tspan>
+<tspan x="580" y="490" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">0</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">0</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">0</tspan>
+<tspan x="580" y="514" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">0</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">0</tspan>
+<tspan x="580" y="538" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">0</tspan> ( <tspan class="addColor" id="loc_add">0</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">0</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>
