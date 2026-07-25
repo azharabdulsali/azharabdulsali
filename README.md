@@ -1,16 +1,93 @@
-<h1 align="center">Hi 👋, I'm Azhar Abdul Sali</h1>
-<img align="center" alt="web-developer" width="100%" src="https://camo.githubusercontent.com/6af9ca223e6017d9700f9aca6904606ceb91ad0296a734a9bd9c5eaf01f0ca84/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d6874747073253341253246253246646576746563686e6f7379732e636f6d253246696e73696768747325324677702d636f6e74656e7425324675706c6f61647325324632303231253246303725324666756c6c2d737461636b2d646576656c6f706d656e742e67696626663d31266e6f66623d31266970743d363835616161393834313732643538363962333334623236666433356163666232353839356163373437313531653530646230643732323965396264396261612669706f3d696d61676573">
-<h3 align="justify">Deep passion for technology, software development, and artificial intelligence. My interests include web and mobile application development as well as exploring machine learning algorithms to solve real-world problems.</h3>
-
-- 📫 How to reach me **www.linkedin.com/in/azhar-abdul-sali**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/azhaaaaarrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azhaaaaarrr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/azhar-abdul-sali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azhar abdul sali" height="30" width="40" /></a>
-<a href="https://instagram.com/_azhar.as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_azhar.as" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/azharabdulsali">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:14B8A6&height=180&section=header&text=Azhar%20Abdul%20Sali&fontColor=FFFFFF&fontSize=42&fontAlignY=36&desc=Software%20Developer%20%7C%20Web%20%26%20Mobile%20%7C%20AI%20Explorer&descAlignY=58&descSize=15" alt="Azhar Abdul Sali" width="100%" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/azhar-abdul-sali">
+    <img src="https://img.shields.io/badge/LinkedIn-azhar--abdul--sali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/azhaaaaarrr">
+    <img src="https://img.shields.io/badge/X-azhaaaaarrr-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://instagram.com/_azhar.as">
+    <img src="https://img.shields.io/badge/Instagram-_azhar.as-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
+<br />
+
+## Assalamualaikum, I'm Azhar.
+
+I enjoy building things that are useful, simple, and a little bit smarter than they were yesterday.
+
+I work around web and mobile application development, with a growing curiosity for artificial intelligence and machine learning. Most of my learning happens through building: turning small problems into small products, reading code slowly, and improving one commit at a time.
+
+I could make this bio sound very serious.
+
+But honestly, I just like the moment when an idea finally runs without error, the UI starts to feel right, and a tiny project becomes something real enough to share.
+
+## What I Build
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Web Apps</h3>
+      <p>Interfaces, dashboards, and full-stack features built with clean structure and practical user flows.</p>
+    </td>
+    <td width="50%">
+      <h3>Mobile Apps</h3>
+      <p>Mobile experiences focused on usability, clear navigation, and solving real everyday problems.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Backend Systems</h3>
+      <p>APIs, databases, authentication, and the quiet parts of an app that need to work reliably.</p>
+    </td>
+    <td width="50%">
+      <h3>AI Experiments</h3>
+      <p>Exploring machine learning ideas and practical AI workflows for better software and better decisions.</p>
+    </td>
+  </tr>
+</table>
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,bootstrap,laravel,mysql,sqlite,git,postman" alt="Tech stack icons" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+</p>
+
+## Current Focus
+
+- Building stronger fundamentals in software development.
+- Exploring web, mobile, and AI ideas through small practical projects.
+- Writing cleaner code, designing better flows, and learning in public.
+- Turning curiosity into shipped work.
+
+## GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azharabdulsali&show_icons=true&theme=tokyonight&hide_border=true" alt="Azhar's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharabdulsali&layout=compact&theme=tokyonight&hide_border=true" alt="Azhar's top languages" height="165" />
+</p>
+
+## Connect
+
+If you want to talk about web development, mobile apps, AI experiments, or a project idea that is still messy but interesting, reach me here:
+
+<p>
+  <a href="https://linkedin.com/in/azhar-abdul-sali">LinkedIn</a> .
+  <a href="https://twitter.com/azhaaaaarrr">X / Twitter</a> .
+  <a href="https://instagram.com/_azhar.as">Instagram</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:2563EB,100:0F172A&height=120&section=footer" alt="Footer wave" width="100%" />
+</p>
